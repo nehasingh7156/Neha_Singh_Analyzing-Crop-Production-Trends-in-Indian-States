@@ -46,13 +46,13 @@ SECTION E:  Machine Learning
 - Hyperparameter tuning
 - Final model insights and recommendations
 
-# Technologies & Tools Used
+## Technologies & Tools Used
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
 - SQL (MySQL)
 - Tableau
 - Jupyter Notebook
 
-# Project Highlights
+## Project Highlights
 - Full end-to-end analytics workflow
 - Clean, well-structured data pipeline
 - Insightful visualizations
